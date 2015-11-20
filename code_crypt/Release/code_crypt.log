@@ -1,0 +1,21 @@
+﻿Build started 19.11.2015 10:00:51.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\code_crypt\code_crypt.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\code_crypt.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\Release\code_crypt.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\code_crypt.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\Release\code_crypt.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\Release\code_crypt.lib" /MACHINE:X86 Release\Main.obj
+         Generating code
+         Finished generating code
+         code_crypt.vcxproj -> C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\Release\code_crypt.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\Release\code_crypt.exe;#1" /manifest Release\code_crypt.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\code_crypt.unsuccessfulbuild".
+         Touching "Release\code_crypt.lastbuildstate".
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\code_crypt\code_crypt\code_crypt.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
